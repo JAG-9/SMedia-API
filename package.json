@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SumnerFrank/sock-net-api.git"
+    "url": "git+https://https://github.com/JAG-9/SMedia-API.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SumnerFrank/sock-net-api/issues"
+    "url": "https://https://github.com/JAG-9/SMedia-API/issues"
   },
-  "homepage": "https://github.com/SumnerFrank/sock-net-api#readme",
+  "homepage": "https://https://github.com/JAG-9/SMedia-API#readme",
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^7.0.3"
